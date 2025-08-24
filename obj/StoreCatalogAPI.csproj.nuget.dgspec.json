@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wesle\\source\\repos\\projetos\\StoreCatalogAPI\\storecatalogapi\\StoreCatalogAPI.csproj": {}
+    "C:\\Users\\wesle\\source\\repos\\projetos\\StoreCatalogAPI\\StoreCatalogAPI\\StoreCatalogAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wesle\\source\\repos\\projetos\\StoreCatalogAPI\\storecatalogapi\\StoreCatalogAPI.csproj": {
+    "C:\\Users\\wesle\\source\\repos\\projetos\\StoreCatalogAPI\\StoreCatalogAPI\\StoreCatalogAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wesle\\source\\repos\\projetos\\StoreCatalogAPI\\storecatalogapi\\StoreCatalogAPI.csproj",
+        "projectUniqueName": "C:\\Users\\wesle\\source\\repos\\projetos\\StoreCatalogAPI\\StoreCatalogAPI\\StoreCatalogAPI.csproj",
         "projectName": "StoreCatalogAPI",
-        "projectPath": "C:\\Users\\wesle\\source\\repos\\projetos\\StoreCatalogAPI\\storecatalogapi\\StoreCatalogAPI.csproj",
+        "projectPath": "C:\\Users\\wesle\\source\\repos\\projetos\\StoreCatalogAPI\\StoreCatalogAPI\\StoreCatalogAPI.csproj",
         "packagesPath": "C:\\Users\\wesle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wesle\\source\\repos\\projetos\\StoreCatalogAPI\\storecatalogapi\\obj\\",
+        "outputPath": "C:\\Users\\wesle\\source\\repos\\projetos\\StoreCatalogAPI\\StoreCatalogAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

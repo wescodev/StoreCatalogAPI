@@ -1,9 +1,10 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 
 namespace StoreCatalogAPI.Models
 {
-    public class Produto
+    public class Product
     {
         [Key]
         public int Id { get; set; }
@@ -16,6 +17,7 @@ namespace StoreCatalogAPI.Models
         [Required]
         public int CategoriaId { get; set; }
         [ForeignKey("CategoriaId")]
-        public Categoria? Categoria { get; set; }
+        [JsonIgnore]
+        public Category? Categoria { get; set; }
     }
 }

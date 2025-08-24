@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7vtZjAc6XH0=",
+  "dgSpecHash": "zlerBrz4JTQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\wesle\\source\\repos\\projetos\\StoreCatalogAPI\\storecatalogapi\\StoreCatalogAPI.csproj",
+  "projectFilePath": "C:\\Users\\wesle\\source\\repos\\projetos\\StoreCatalogAPI\\StoreCatalogAPI\\StoreCatalogAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesle\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\wesle\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

@@ -168,3 +168,5 @@ C:\Users\wesle\source\repos\projetos\StoreCatalogAPI\StoreCatalogAPI\obj\Debug\n
 C:\Users\wesle\source\repos\projetos\StoreCatalogAPI\StoreCatalogAPI\obj\Debug\net8.0\StoreCatalogAPI.pdb
 C:\Users\wesle\source\repos\projetos\StoreCatalogAPI\StoreCatalogAPI\obj\Debug\net8.0\StoreCatalogAPI.genruntimeconfig.cache
 C:\Users\wesle\source\repos\projetos\StoreCatalogAPI\StoreCatalogAPI\obj\Debug\net8.0\ref\StoreCatalogAPI.dll
+C:\Users\wesle\source\repos\projetos\StoreCatalogAPI\StoreCatalogAPI\obj\Debug\net8.0\StoreCatalogAPI.sourcelink.json
+C:\Users\wesle\source\repos\projetos\StoreCatalogAPI\StoreCatalogAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
