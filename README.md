@@ -79,4 +79,4 @@ dotnet ef database update
 
 ## Class Diagram
 
-![Class Diagram](./path-to-your-diagram.png) <!-- Replace this path with your diagram image -->
+![Class Diagram](./src/diagram.png) <!-- Replace this path with your diagram image -->
